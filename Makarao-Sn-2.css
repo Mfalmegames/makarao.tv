@@ -1,0 +1,596 @@
+ .u-section-1 {
+  background-image: url("images/AppBG.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 784px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 357px;
+  background-image: url("images/ManUnitedTutawachapiaKwenu1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 445px;
+  background-image: url("images/DawayaPanya1.png");
+  animation-timing-function: ease;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 20px;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 357px;
+  background-image: url("images/KijanaAliyepigapolisi.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 30px 29px 31px;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 357px;
+  background-image: url("images/Ngeta.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 643px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 294px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 294px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 294px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 488px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 281px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 225px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 30px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1418px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 338px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 422px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 338px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 338px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 887px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 266px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 213px;
+  }
+} .u-section-2 {
+  background-image: url("images/AppBG.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 784px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 357px;
+  background-image: url("images/BuiBuisioMnyama.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 20px;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 445px;
+  background-image: url("images/KitaleBodaBoda.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 20px;
+}
+
+.u-section-2 .u-image-3 {
+  min-height: 357px;
+  background-image: url("images/PressConference.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 30px 29px 31px;
+}
+
+.u-section-2 .u-image-4 {
+  min-height: 357px;
+  background-image: url("images/Sampling.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 643px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 294px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 367px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 294px;
+  }
+
+  .u-section-2 .u-image-4 {
+    min-height: 294px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 488px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 225px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 281px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 225px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+  }
+
+  .u-section-2 .u-image-4 {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1418px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 338px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 422px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 338px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-4 {
+    min-height: 338px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 887px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 213px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 266px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 213px;
+  }
+
+  .u-section-2 .u-image-4 {
+    min-height: 213px;
+  }
+} .u-section-3 {
+  background-image: url("images/AppBG.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 784px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 357px;
+  background-image: url("images/KujisaidiaKwaKichaka.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 20px;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 445px;
+  background-image: url("images/Incubator.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 20px;
+}
+
+.u-section-3 .u-image-3 {
+  min-height: 357px;
+  background-image: url("images/UjenziwaBarabara.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 30px 30px 29px 31px;
+}
+
+.u-section-3 .u-image-4 {
+  min-height: 357px;
+  background-image: url("images/Mateyawaria.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 643px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 294px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 367px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 294px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 294px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 488px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 225px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 281px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 225px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 30px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1418px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 338px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 422px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 338px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 338px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 887px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 213px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 266px;
+  }
+
+  .u-section-3 .u-image-3 {
+    min-height: 213px;
+  }
+
+  .u-section-3 .u-image-4 {
+    min-height: 213px;
+  }
+} .u-section-4 {
+  background-image: url("images/AppBG.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 784px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 830px;
+  background-image: url("images/MakaraoinUganda.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 643px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 684px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 488px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 524px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1418px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 759px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 887px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 478px;
+  }
+}
